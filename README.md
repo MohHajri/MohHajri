@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 c1almo00@students.oamk.fi or mohamedmansouralhajri@gamil.com
+
 Linkedin: 
 https://www.linkedin.com/in/mohamed-alhajri-319929225/
 <!---
