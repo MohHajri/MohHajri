@@ -17,7 +17,7 @@ I am a software development student <img src="https://media.giphy.com/media/WUlp
 - 🔭 I am a student with strong skills in Java, JavaScript, and React. Experienced in web development and database management. Always seeking to improve my computer science knowledge.
 - 🌱Contributed to a full-stack website and familiar with Linux, cloud services, and server management. Currently learning mobile application development and working on a major project
 - ⚡ In my free time I volunteer and read books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-al-hajri-319929225/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-al-hajri-319929225/)
 
 ---
 
